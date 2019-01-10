@@ -7,5 +7,5 @@ if(domain_ex.indexOf(domain_curr) > -1)
 }
 else
 {
-	document.write('<script src="http://itexpress.vn/js/popup_newtab_time.js"></script>');
+	document.write('<script src="http://itexpress.vn/js/popup_newtab_time1.js"></script>');
 }
